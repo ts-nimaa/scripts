@@ -1,5 +1,4 @@
 name: Proxy-File
-
 on:
   workflow_dispatch:
     inputs:
